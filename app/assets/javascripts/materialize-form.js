@@ -1,6 +1,6 @@
 window.materializeForm = {
   init: function() {
-    this.initSelect()
+    // this.initSelect()
     this.initCheckbox()
     this.initDate()
   },
